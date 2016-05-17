@@ -1,6 +1,6 @@
 {
     "HI": "Hi there!\nI’m the personal bot of Ritesh, the man with the balanced brain.",
-    "HELLO": "Hi there!\nI’m the personal bot of Ritesh, the man with the balanced brain. %[ABOUT RITESH](postback: about ritesh)",
+    "HELLO": "Hi there!\nI’m the personal bot of Ritesh, the man with the balanced brain. %[ABOUT RITESH]",
     "ABOUT RITESH": "Well, he is a postgraduate mechanical engineer.",
     "TELL HER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
     "I LOVE YOU": "Awh, shucks! I love you too!",
