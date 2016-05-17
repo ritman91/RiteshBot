@@ -2,7 +2,7 @@
     "HI": "Hi there!\nI’m the personal bot of Ritesh, the man with the balanced brain.",
     "HELLO": "Hi there!\nI’m the personal bot of Ritesh, the man with the balanced brain. %[About Ritesh](postback:aboutritesh)",
     "ABOUT RITESH": "Well, he is a postgraduate mechanical engineer. %[More about him](postback:moreabouthim)",
-    "MORE ABOUT HIM": "What would you like to know? %[Work experience](postback:workexperience)%[Skills](postback:skills)",
+    "MORE ABOUT HIM": "What would you like to know? %[Work experience](postback:workexperience)\n%[Skills](postback:skills)",
     "I LOVE YOU": "Awh, shucks! I love you too!",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, RiteshBot is back."
