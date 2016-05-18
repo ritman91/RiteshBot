@@ -1,10 +1,14 @@
 {
     "HI": "Hi there!\nI’m the personal bot of Ritesh, the man with the balanced brain. What are you here for? %[Learn about Ritesh](postback:aboutritesh) %[I'm just here for the bot](postback:hereforbot) %[I don't know why I am here](postback:dontknow)",
     "HELLO": "Hi there!\nI’m the personal bot of Ritesh, the man with the balanced brain. What are you here for? %[Learn about Ritesh](postback:aboutritesh) %[I'm just here for the bot](postback:hereforbot) %[I don't know why I am here](postback:dontknow)",
-    "ABOUT RITESH": "Well, he is a postgraduate mechanical engineer. %[More about him](postback:moreabouthim)",
+    "LEARN ABOUT RITESH": "Well, he is a postgraduate mechanical engineer who loves to learn!%[More about him](postback:moreabouthim)",
+    "I'M JUST HERE FOR THE BOT": "Just as suspected! \n Sorry, I can't give away anything about me. But. If you want to know about my Master, say..\nWait I'll just save you the effort. Tap below %[Learn about Ritesh](postback:aboutritesh)",
     "MORE ABOUT HIM": "What would you like to know? %[Work experience](postback:workexperience) %[Skills](postback:skills)",
     "I DON'T KNOW WHY I AM HERE": "Cat videos? %[Yesh!](https://goo.gl/Zu7uCN) %[Nah](postback:nah)",
+    "WORK EXPERIENCE": "He is currently working as a Systems Support Officer at The University of Sydney.\nHe has previously worked with an engineering startup, designing some kickass sustainable solution %[More](postback:moreexperience)",
+    "MORE": "Hey, why not head to his LinkedIn page? %[LinkedIn](https://au.linkedin.com/in/riteshmandaliya)"
     "NAH": "Okay, seriously, what do you want?",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, RiteshBot is back."
+    "DO YOU THINK I SHOULD HIRE RITESH": "I am just a bot."
 }
