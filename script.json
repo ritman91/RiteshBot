@@ -1,4 +1,5 @@
 {
+    "start": "Hi there!\nI’m the personal bot of Ritesh, the man with the balanced brain. %[About Ritesh](postback:aboutritesh)",
     "HI": "Hi there!\nI’m the personal bot of Ritesh, the man with the balanced brain.",
     "HELLO": "Hi there!\nI’m the personal bot of Ritesh, the man with the balanced brain. %[About Ritesh](postback:aboutritesh)",
     "ABOUT RITESH": "Well, he is a postgraduate mechanical engineer. %[More about him](postback:moreabouthim)",
