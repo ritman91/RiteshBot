@@ -1,10 +1,9 @@
 {
-    "/start": "Hi there!\nI’m the personal bot of Ritesh, the man with the balanced brain. %[About Ritesh](postback:aboutritesh)",
-    "HI": "Hi there!\nI’m the personal bot of Ritesh, the man with the balanced brain. %[About Ritesh](postback:aboutritesh)",
-    "HELLO": "Hi there!\nI’m the personal bot of Ritesh, the man with the balanced brain. %[About Ritesh](postback:aboutritesh)",
+    "HI": "Hi there!\nI’m the personal bot of Ritesh, the man with the balanced brain. What are you here for? %[Learn about Ritesh](postback:aboutritesh)%[I'm just here for the bot](postback:hereforbot)%[I don't know why I am here](postback:dontknow)",
+    "HELLO": "Hi there!\nI’m the personal bot of Ritesh, the man with the balanced brain. What are you here for? %[Learn about Ritesh](postback:aboutritesh)%[I'm just here for the bot](postback:hereforbot)%[I don't know why I am here](postback:dontknow)",
     "ABOUT RITESH": "Well, he is a postgraduate mechanical engineer. %[More about him](postback:moreabouthim)",
     "MORE ABOUT HIM": "What would you like to know? %[Work experience](postback:workexperience) %[Skills](postback:skills)",
-    "I LOVE YOU": "Awh, shucks! I love you too!",
+    "I DON'T KNOW WHY I AM HERE": "%[Cat videos?](goo.gl/Zu7uCN)",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, RiteshBot is back."
 }
