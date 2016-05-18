@@ -6,9 +6,9 @@
     "MORE ABOUT HIM": "What would you like to know? %[Work experience](postback:workexperience) %[Skills](postback:skills)",
     "I DON'T KNOW WHY I AM HERE": "Cat videos? %[Yesh!](https://goo.gl/Zu7uCN) %[Nah](postback:nah)",
     "WORK EXPERIENCE": "He is currently working as a Systems Support Officer at The University of Sydney.\nHe has previously worked with an engineering startup, designing some kickass sustainable solution %[More](postback:moreexperience)",
-    "MORE": "Hey, why not head to his LinkedIn page? %[LinkedIn](https://au.linkedin.com/in/riteshmandaliya)"
+    "MORE": "Hey, why not head to his LinkedIn page? %[LinkedIn](https://au.linkedin.com/in/riteshmandaliya)",
     "NAH": "Okay, seriously, what do you want?",
     "CONNECT ME": "",
-    "DISCONNECT": "Roger that, RiteshBot is back."
-    "DO YOU THINK I SHOULD HIRE RITESH": "I am just a bot."
+    "DISCONNECT": "Roger that, RiteshBot is back.",
+    "DO YOU THINK I SHOULD HIRE RITESH?": "I am just a bot."
 }
